@@ -1,4 +1,5 @@
 #0x02. Shell, I/O Redirections and filters
-#task 0 hello world:echo Hello, World
-1. Confused smiley Write a script that displays a confused smiley "(Ôo)'.
+0. Hello World - > Write a script that prints “Hello, World”, followed by a new line to the standard output.
+1. Confused smile - > Write a script that displays a confused smiley "(Ôo)'.
+2. Display a file - > Display the content of the /etc/passwd file
 
